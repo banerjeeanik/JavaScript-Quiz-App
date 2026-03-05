@@ -8,7 +8,8 @@ This project dynamically displays questions, validates answers, and tracks the u
 ---
 
 🚀 **Live Demo**
-🌍 Try the app here:
+
+🌍 Try the app here:  https://java-script-quiz-app-ashen.vercel.app/
 👉 
 
 
